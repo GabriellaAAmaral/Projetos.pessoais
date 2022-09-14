@@ -4,9 +4,25 @@ p {
 }
 
 h1 {
-    font-family: 'Ms Madi', cursive;
+    font-family:'Ms Madi', cursive;
+    margin-left: 3cm;
+    margin-top: ;
 }
 
 body {
     background-color: #CD853F;
+}
+
+#header {
+    background-image: url("Images/graocafe.png");
+    background-position: 0% 0%;
+}
+
+* {
+margin: 0;
+}
+
+.logo {
+    margin-left: 4cm;
+    margin-top: 1cm;
 }
